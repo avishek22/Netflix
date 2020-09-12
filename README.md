@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is basically the landing page of netflix update at this time of commit.
 
 ## Available Scripts
 
